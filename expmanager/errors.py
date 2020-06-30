@@ -1,0 +1,3 @@
+
+class ExperimentDataError(Exception):
+    pass
